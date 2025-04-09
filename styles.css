@@ -14,7 +14,8 @@ body {
   position: relative;
 }
 .hero {
-  background: url("images/8.jpg") no-repeat center center/cover;
+  background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/162/601/original/8.jpg?1744183628")
+    no-repeat center center/cover;
   background-color: rgba(0, 0, 0, 0.589);
   background-blend-mode: multiply;
   /* height: 100%; */
@@ -242,7 +243,8 @@ body {
 
   height: 100vh;
 
-  background: url("images/12\ \(4\).jpg") center/cover no-repeat;
+  background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/162/602/original/12_%284%29.jpg?1744183679")
+    center/cover no-repeat;
 
   /* display: flex; */
 
